@@ -116,7 +116,7 @@ And two product families:
 
 ---
 
-## 🔹 Abstract Products
+##  Abstract Products
 
 ### `BakeryCake`
 
@@ -164,7 +164,7 @@ The Wedding family contains:
 
 ---
 
-# 🏭 4. Abstract Factory Structure
+#  4. Abstract Factory Structure
 
 The abstract factory is:
 
@@ -214,7 +214,7 @@ The client works with the abstract interfaces and does not directly create `Birt
 
 ---
 
-# 👤 5. Client
+#  5. Client
 
 The client is the **`Main`** class.
 
@@ -241,7 +241,7 @@ This makes the client code independent from concrete product classes.
 
 ---
 
-# 🧹 6. Clean Code Principles
+#  6. Clean Code Principles
 
 The project follows **five Clean Code principles** required by the assignment.
 
@@ -311,7 +311,7 @@ Meaningful class and method names are used instead of unexplained values.
 
 ---
 
-# 📂 7. Project Structure
+#  7. Project Structure
 
 ```text
 BakeryFactory
@@ -346,7 +346,7 @@ BakeryFactory
 
 ---
 
-# ▶️ 8. Program Output
+#  8. Program Output
 
 When the `Main` class is executed, the program demonstrates both design patterns.
 
